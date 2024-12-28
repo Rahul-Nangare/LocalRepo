@@ -1,3 +1,7 @@
 <p> This is Local repo file </p>
 <p> Adding another Local repo file </p>
+<<<<<<< HEAD
 <p> Adding new feature in Local repo file (Dropdown)</p>
+=======
+<p> Adding new feature in Local repo file (Button)</p>
+>>>>>>> main
